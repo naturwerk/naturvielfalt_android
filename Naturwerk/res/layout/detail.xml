@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+
+
+        <TextView
+            android:id="@+id/detailTextFamily"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Family"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/detailTextNameDe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name DE"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/detailTextName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name Lat"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/detailTextOpt1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/detailTextOpt2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <Button
+            android:id="@+id/buttonCreateObservation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Create Observation" />
+
+</LinearLayout>

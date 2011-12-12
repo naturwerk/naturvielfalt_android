@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, NaturwerkActivity!</string>
+    <string name="app_name">Naturwerk</string>
+    
+    <string name="titlePrefs">Prefs</string>
+    <string name="titleDetail">Details</string>
+    
+	<string name="titleUsername">Username</string>
+	<string name="titlePassword">Password</string>
+	<string name="titleApiRoot">API Root</string>
+	<string name="titleServiceStart">Update Database</string>	
+    
+	<string name="summaryUsername">Please enter your username</string>
+	<string name="summaryPassword">Please enter your password</string>
+	<string name="summaryApiRoot">URL of Root API for your service</string>        
+
+</resources>
