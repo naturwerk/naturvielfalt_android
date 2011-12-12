@@ -16,20 +16,22 @@ public final class R {
         public static final int naturweklogo=0x7f020002;
     }
     public static final class id {
-        public static final int buttonCreateObservation=0x7f070008;
+        public static final int buttonCreateObservation=0x7f07000a;
+        public static final int buttonGetFoto=0x7f070008;
         public static final int detailTextFamily=0x7f070003;
         public static final int detailTextName=0x7f070005;
         public static final int detailTextNameDe=0x7f070004;
         public static final int detailTextOpt1=0x7f070006;
         public static final int detailTextOpt2=0x7f070007;
-        public static final int itemPrefs=0x7f07000c;
-        public static final int itemToggleService=0x7f07000d;
+        public static final int imageViewFoto=0x7f070009;
+        public static final int itemPrefs=0x7f07000e;
+        public static final int itemToggleService=0x7f07000f;
         public static final int listCategory=0x7f070000;
-        public static final int listFauna=0x7f070009;
+        public static final int listFauna=0x7f07000b;
         public static final int textCategoryCount=0x7f070002;
         public static final int textCategoryName=0x7f070001;
-        public static final int textFaunaLatinName=0x7f07000b;
-        public static final int textFaunaName=0x7f07000a;
+        public static final int textFaunaLatinName=0x7f07000d;
+        public static final int textFaunaName=0x7f07000c;
     }
     public static final class layout {
         public static final int category=0x7f030000;

@@ -22,7 +22,7 @@ public class NWFaunaActivity extends NWBaseActivity {
 	static final int[] TO = { R.id.textFaunaName, R.id.textFaunaLatinName };
 
 	@Override
-	public void onCreate(Bundle savedInstanceState) {
+	public void onCreate(Bundle savedInstanceState) { 
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.fauna);
 		listCategory = (ListView) findViewById(R.id.listFauna);
